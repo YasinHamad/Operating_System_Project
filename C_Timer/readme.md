@@ -8,4 +8,3 @@ This is a C timer program you can run it from your terminal (on Linux OS).
 - To start from 00:00:00 and stop at a specific time -> `./clock s your_time_here` example: `./clock s 00:25:00`.
 - To stop the program -> `ctrl \` or `ctrl c`.
 - 
-
